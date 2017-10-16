@@ -1,0 +1,25 @@
+{
+  "name": "relay",
+  "version": "1.0.0",
+  "description": "relay the dreams! student union e-voting",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amharfm/relay.git"
+  },
+  "author": "amhar.fm, SEP ICT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amharfm/relay/issues"
+  },
+  "homepage": "https://github.com/amharfm/relay#readme",
+  "dependencies": {
+    "address": "^1.0.3",
+    "nodejs-websocket": "^1.7.1",
+    "sqlite3": "^3.1.13"
+  }
+}
