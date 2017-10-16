@@ -5,4 +5,4 @@ a replication of e-voting system from https://github.com/amharfm/creaictive-awar
 
 modify the sqlite3 db as you want
 
-[alt text](https://github.com/amharfm/relay/blob/master/logo.png)
+<img src="https://github.com/amharfm/relay/blob/master/logo.png"/>
