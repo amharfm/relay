@@ -12,5 +12,11 @@ windows: https://drive.google.com/file/d/1pV4fPl_hneRLJYLunDzlTYrf9bvGDVra/view?
 
 linux: https://drive.google.com/file/d/1fkhuBSg_Os7E0ILlIGsMcxBGFn8QPal0/view?usp=sharing
 
+# nvm
+https://github.com/coreybutler/nvm-windows/releases
+
+# node
+https://nodejs.org/en/download/releases/
+
 <img src="https://github.com/amharfm/relay/blob/master/logo.png"/>
 <img src="https://github.com/amharfm/relay/raw/master/Peek_evoting_mhsu.gif"/>
