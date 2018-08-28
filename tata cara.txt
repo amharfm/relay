@@ -1,0 +1,20 @@
+Evoting
+Pengguna=====================================
+1. Karena app ini butuh akses file secara langsung, maka kita tetap butuh Node. Install node LTS.
+ - Windows: Dikarenakan sqlite3, app ini hanya bisa dipakai bersamaan node 4.9.1. Kalau nvm (langkah 2) sudah punya, install dengan "nvm install 4.9.1" lalu tentu "nvm use 4.9.1"
+2. Ekstrak evotingpalibelo-win32-x64
+3. Cek bahwa di folder yang baru diekstrak, terdapat file "config.json"
+4. Ya sudah, tinggal dibuka file evoting yang ada di dalamnya. Semestinya sudah beres dengan begini.
+
+
+Development==================================
+1. Install node LTS yang paling baru (simpan saja di C:\nodejs)
+ - Windows: Dikarenakan sqlite3, app ini hanya bisa dipakai bersamaan node 4.9.1. Kalau nvm (langkah 2) sudah punya, install dengan "nvm install 4.9.1" lalu tentu "nvm use 4.9.1"
+ - Ubuntu: Yang terbaru (^8) kelihatannya bisa handle sqlite3 dengan baik
+2. Install nvm (simpan saja di C:\nvm, dan pasangkan nodejs yang tadi dengan yang diminta nvm)
+3. Ekstrak evotingpalibelo-win32-x64
+4. Cek bahwa di folder yang baru diekstrak, terdapat file "config.json"
+5. Ya sudah, tinggal dibuka file evoting yang ada di dalamnya. Semestinya sudah beres dengan begini.
+
+catatan:
+Untuk mengakses laman web ini, setelah evoting dibuka di komputer server, komputer maupun device (mobile, tab, dll) dapat mengakses sesuai konfigurasi config.json. Misalnya: http://86.50.111.11:8765. Sekali evoting di komputer server ditutup, maka sudah barang tentu tidak ada yang dapat terhubung dengannya
