@@ -1,6 +1,8 @@
 # relay
 worked with node 0.12.7, and 4.9.1
 
+catatan: https://github.com/amharfm/relay/blob/master/tata%20cara.txt
+
 relay the dreams! student union e-voting
 
 a replication of e-voting system from https://github.com/amharfm/creaictive-award
