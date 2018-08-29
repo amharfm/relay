@@ -20,5 +20,9 @@ https://github.com/coreybutler/nvm-windows/releases
 # node
 https://nodejs.org/en/download/releases/
 
+# SQLstudio
+
+To edit "vote.db": https://sqlitestudio.pl/index.rvt?act=download
+
 <img src="https://github.com/amharfm/relay/blob/master/logo.png"/>
 <img src="https://github.com/amharfm/relay/raw/master/Peek_evoting_mhsu.gif"/>
