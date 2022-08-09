@@ -24,5 +24,4 @@ https://nodejs.org/en/download/releases/
 
 To edit "vote.db": https://sqlitestudio.pl/index.rvt?act=download
 
-<img src="https://github.com/amharfm/masjiddarussalam/blob/ee77263cca580014fd865e38008acd4d59b0bd4e/ed/versi-1.JPG"/>
 <img src="https://github.com/amharfm/relay/raw/master/Peek_evoting_mhsu.gif"/>
